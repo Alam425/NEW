@@ -3,11 +3,11 @@
     font-family: 'Work Sans', 'Open Sans';
 }
 header{
-    background-image: url(../new-year-new-me/images/banner/banner3.png);
+    background-image: url(./images/banner/banner3.png);
     background-color: cadetblue;
     background-repeat: no-repeat;
     background-size: contain;
-    padding: 190px 190px 140px;
+    padding: 190px 190px 138px;
     text-align: right;
 }
 header > h1{
